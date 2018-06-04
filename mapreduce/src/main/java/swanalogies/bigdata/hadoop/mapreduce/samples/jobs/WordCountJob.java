@@ -1,4 +1,4 @@
-package swanalogies.bigdata.hadoop.mapreduce.samples;
+package swanalogies.bigdata.hadoop.mapreduce.samples.jobs;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
